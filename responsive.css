@@ -1,0 +1,113 @@
+@media (max-width: 800px) {
+  .header-page {
+    background-image: url("./image/Bitmap.svg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .main-header h1 {
+    font-size: 48px;
+    padding: 0;
+    padding-left: 50px;
+    padding-top: 150px;
+    max-width: 50%;
+    margin-left: 0;
+  }
+  .main-header p {
+    max-width: 48%;
+    padding-left: 50px;
+    font-size: 15px;
+    margin: 0;
+  }
+  .button-1 {
+    margin-left: 50px;
+  }
+  .header-header p {
+    font-size: 15px;
+    margin: 0;
+  }
+  .main-header {
+    max-width: 768px;
+    height: 600px;
+  }
+  .home-page {
+    width: 768px;
+  }
+  .header-page {
+    max-width: 768px;
+    height: 600px;
+    border-radius: 10px;
+  }
+  .container {
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+  }
+  .section-h1 {
+    padding: 0;
+  }
+  .section-h1 h1 {
+    font-size: 120px;
+  }
+  .main-esspresso {
+    display: inline-block;
+    /* align-items: end; */
+  }
+  .ul-esspresso {
+    display: flex;
+    align-items: center;
+  }
+  .espresso-li h2 {
+    font-size: 24px;
+    line-height: 32px;
+    max-width: 50%;
+  }
+  .espresso-li p {
+    font-size: 15px;
+    max-width: 40%;
+    line-height: 25px;
+    margin: 0;
+    margin-left: 50px;
+  }
+  .paragraf-esspresso {
+    max-width: 500px;
+  }
+  .cards {
+    display: inline-block;
+  }
+  .card-image-2 {
+    max-width: 573px;
+    height: 180px;
+    padding: 0;
+  }
+  .apple {
+    display: inline-block;
+    gap: 0;
+  }
+  .section-quality {
+    position: static;
+  }
+
+  .main-benefits-2 {
+    display: inline-block;
+    position: static;
+    margin: 60px;
+  }
+  .benefits-color {
+    position: static;
+  }
+  .benefits-card {
+    max-width: 573px;
+    height: 35vh;
+    padding: 0;
+  }
+  .main-content {
+    margin-top: 190px;
+    display: grid;
+    grid-template-columns: 100%;
+  }
+  .contact-page {
+    width: 100%;
+  }
+}
